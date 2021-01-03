@@ -1,0 +1,50 @@
+h1{
+    color:#ee9d52dc;
+    background-color: rgb(128, 25, 110);
+    height: 90px;
+    width:75%;
+}
+p{
+    color: rgb(19, 81, 139);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width:50%;
+}
+
+#birthday{
+    font-size: 40px;
+    color: slateblue;
+}
+#murgi{
+    color: tomato;
+}
+.friend{
+    background-color: yellow;
+}
+h1.friend{
+    font-size: 60px;
+    background-color: teal;
+}
+.neighbor{
+    background-color: yellowgreen;
+    width: 200px;
+}
+.romantic{
+    color: red;
+}
+.blog{
+    border: 1px solid green;
+    border-radius: 20px;
+    margin:1%;
+    width: 30%;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
